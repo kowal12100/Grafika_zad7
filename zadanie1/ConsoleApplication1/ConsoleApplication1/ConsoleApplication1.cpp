@@ -1,6 +1,4 @@
-﻿//Damian Moska�a
-
-//Program 1 - Ostros�up prawid�owy o podstawie 6-k�ta z kul� wewn�trz i kwadratem u podstawy
+﻿//Program 1 - Ostros�up prawid�owy o podstawie 6-k�ta z kul� wewn�trz i kwadratem u podstawy
 #include "stdafx.h"
 #include <GL/glut.h>
 #define _USE_MATH_DEFINES
